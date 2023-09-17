@@ -423,5 +423,10 @@
     "name": "@jnxplus/nx-gradle",
     "description": "Nx plugin to add Gradle multi-project builds support to Nx workspace",
     "url": "https://github.com/khalilou88/jnxplus/tree/main/packages/nx-gradle"
+  },
+  {
+    "name": "nx-cmake",
+    "description": "CMake, C and C++ support for Nx workspaces",
+    "url": "https://github.com/clemenscodes/nx-plugins/tree/main/packages/nx-cmake"
   }
 ]
